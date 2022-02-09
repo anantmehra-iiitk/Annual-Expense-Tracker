@@ -1,8 +1,4 @@
-# Live Site :
-https://anantmehra-iiitk.github.io/Annual-Expense-Tracker/
-
-
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
